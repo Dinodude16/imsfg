@@ -3,12 +3,11 @@
 body {
     font-family: Roboto;
     font-weight: 400;
-    border: 0%;
+    border: 0px;
+    margin: 0;
 }
 
-div {
-    border: 0px;
-}
+div {}
 
 .one {
     height: 160px;
