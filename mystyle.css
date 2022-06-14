@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: Roboto;
+    font-weight: 400;
+    border: 0%;
+}
+
+div {
+    border: 0px;
+}
+
+.one {
+    height: 160px;
+    background-color: deepskyblue;
+}
+
+.two {
+    height: 160px;
+    background-color: lightpink;
+}
+
+.three {
+    height: 160px;
+    background-color: white;
+    text-align: center;
+    font-size: 120px;
+}
+
+.four {
+    height: 160px;
+    background-color: lightpink;
+}
+
+.five {
+    height: 160px;
+    background-color: deepskyblue;
+}
